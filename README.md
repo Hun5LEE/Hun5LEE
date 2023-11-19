@@ -18,6 +18,7 @@
     <img src="https://img.shields.io/badge/TypeScript-3776AB?style=for-the-badge&logo=TypeScript&logoColor=white"><br>
     <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white">
     <img src="https://img.shields.io/badge/ReactQuery-FF4154?style=for-the-badge&logo=reactquery&logoColor=white">
+    <img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=black">
 </p>
 
 <p align="center" display="inline-block">
@@ -34,7 +35,9 @@
     💡 Used at least once 💡
 </p>
 <p align="center" display="inline-block">
-    <img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=black">
+    <img src="https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white">
+    <img src="https://img.shields.io/badge/SWR-F05032?style=for-the-badge&logo=SWR&logoColor=white">
+    <img src="https://img.shields.io/badge/Recoil-7952B3?style=for-the-badge&logo=Recoil&logoColor=white">
 </p>
 
 <br>
