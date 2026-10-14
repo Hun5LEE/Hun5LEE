@@ -1,8 +1,4 @@
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=05C85A&fontColor=eeeeee&text=Hun5LEE%20&height=250&fontSize=60&desc=Front-End%20Developer!&descAlignY=75&descAlign=60">
-</p>
-
-<p align="center">
  <Strong>🐌 E-mail 🐌<Strong><br> jhlee091697@gmail.com
 </p>
 
